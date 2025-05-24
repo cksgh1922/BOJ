@@ -1,3 +1,5 @@
+#버블 정렬 알고리즘 꼭 알기 
+
 while True:
     triangle = list(map(int,input().split()))
     
